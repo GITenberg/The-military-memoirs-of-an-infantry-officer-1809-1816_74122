@@ -8,8 +8,13 @@ contributor:
     gutenberg_agent_id: '57323'
     url: http://www.gutenberg.org/2009/agents/57323
     wikipedia: https://en.wikipedia.org/wiki/James_Archibald_Hope
+covers:
+- cover_type: archival
+  image_path: 74122-h/images/cover.jpg
 description: Published anonymously. May be incorrectly attributed to James Archibald
   Hope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74122#The-military-memoirs-of-an-infantry-officer-1809-1816
 gutenberg_issued: '2024-07-25'
 gutenberg_type: Text
 identifiers:
